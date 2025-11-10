@@ -1,4 +1,3 @@
-# ds_trade_sentiment
 # 📊 Trader Performance vs Market Sentiment Analysis
 
 ## 🧭 Project Overview
