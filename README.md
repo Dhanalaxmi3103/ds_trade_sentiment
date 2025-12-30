@@ -87,18 +87,31 @@ Market sentiment significantly influences trader behavior. Optimistic markets dr
 8. **On-Chain Data Integration** — Combine with blockchain transaction data for deeper behavioral analysis.  
 
 ## 📁 Repository Structure
-ds_<yourname>/
+ds_trade_sentimet
+
+
 ├── notebook_1.ipynb  
+
 ├── csv_files/ # Raw and processed CSVs
+
 │ ├── historical_data.csv
+
 │ ├── sentiment_data.csv
+
 │ └── merged_trader_sentiment.csv
+
 ├── outputs/ # Visualization outputs
+
 │ ├── avg_pnl_vs_sentiment.png
+
 │ ├── correlation_matrix.png
+
 │ ├── trader_winrate_comparison.png
+
 │ └── ...
+
 ├── ds_report.pdf # Final project report
+
 └── README.md # Project documentation
 
 
